@@ -2,7 +2,7 @@
 using System;
 using Xunit;
 
-namespace BrainstormSessions.Test.UnitTests
+namespace BrainstormSessions.Test.IntefrationTests
 {
     public class SendFileToEmailTests
     {
