@@ -1,0 +1,7 @@
+.vs
+BrainstormSessions/bin/*
+BrainstormSessions/obj/*
+BrainstormSessions/Logs/*
+
+BrainstormSessions.Test/bin/*
+BrainstormSessions.Test/obj/*
